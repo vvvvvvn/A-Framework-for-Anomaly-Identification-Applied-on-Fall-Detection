@@ -1,5 +1,12 @@
 # A Framework for Anomaly Identification Applied on Fall Detection
 
+[Reference](https://github.com/yvesmendes/A-Framework-for-Anomaly-Identification-Applied-on-Fall-Detection/blob/main/pre-proccess.py)
+
+## packages
+
+- `requirements-old.txt` --> 作者原本的
+- `requirements.txt` --> 我後來安裝的版本的 （但因為我的 torch 是裝有 cuda12.1 版本的，看要不要直接 python `pre-process.py` 看缺什麼裝什麼？
+
 ## Model
 
 - [Get model from st-gcn](https://github.com/yysijie/st-gcn/blob/master/OLD_README.md#get-pretrained-models)
